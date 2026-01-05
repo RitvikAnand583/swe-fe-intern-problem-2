@@ -29,7 +29,7 @@ For your reference:
 - See [insights-client](./insights-client), a Typescript example of how to use Insights API
 - See [malysis-client](./malysis-client/), a Typescript example of how to use Malysis API
 - See [insights-sample.json](./insights-sample.json) for an example response from Insights API, useful for mocking
-- See [malysis-sample.json](./malysis-sample.json) for an example response from Insights API, useful for mocking
+- See [malysis-sample.json](./malysis-sample.json) for an example response from Malysis API, useful for mocking
 
 **Note:** The data may not be available for all packages. Handle the error gracefully by displaying an appropriate error message.
 
@@ -40,6 +40,8 @@ Follow the instructions below to submit your solution:
 1. Create a public GitHub repository
 2. Add the code implementing your solution to the repository
 3. Share the repository URL with `jobs@safedep.io` with subject `[SWE-FE-Intern-2026]: Your Name`
+
+**IMPORTANT:** Your repository should include a README.md file with the instructions to run the application.
 
 ## Questions?
 
